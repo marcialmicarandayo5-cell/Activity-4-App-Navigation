@@ -13,7 +13,7 @@ export default function ProductList({ navigation }) {
     {
       name: 'Laptop',
       price: '$500',
-      description: 'A simple laptop for school work.',
+      description: 'A simple laptops for school work.',
       icon: '💻',
     },
     {
